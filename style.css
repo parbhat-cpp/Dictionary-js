@@ -1,0 +1,16 @@
+body{
+    padding: 10px;
+    background-color: rgba(130, 234, 243, 0.877);
+}
+
+#id-holder{
+    position: absolute;
+    width: fit-content;
+    max-height: 50%;
+    box-shadow: 5px 10px rgba(11, 15, 15, 0.226);
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    overflow-y: scroll;
+    margin-top: 10px;
+}
